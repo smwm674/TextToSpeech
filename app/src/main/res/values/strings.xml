@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="EnterText">Enter Text</string>
+    <string name="Pitch">Pitch</string>
+    <string name="Speed">Speed</string>
+    <string name="Sayit">Say it!</string>
+
+</resources>
