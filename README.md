@@ -27,10 +27,7 @@ This project follows a simple **MVC-inspired pattern**:
 
 ## Installation Instructions
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/smwm674/TextToSpeech.git
-````
-
+   ```bash   git clone https://github.com/smwm674/TextToSpeech.git````
 2. Open the project in **Android Studio**.
 3. Allow Android Studio to sync and build Gradle dependencies.
 
